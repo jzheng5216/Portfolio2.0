@@ -1,0 +1,22 @@
+#myPhoto{
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+#submission{
+    margin-left: 20px;
+    color: black;
+}
+
+footer{
+    padding-top: 15px;
+}
+
+#contactMe{
+    padding-top:20px;
+}
+
+.bg-1 { 
+    background-color: #1abc9c; 
+     color: #ffffff;
+ }
